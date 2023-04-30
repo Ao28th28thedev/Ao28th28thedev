@@ -15,4 +15,4 @@ Version 1.3.1 from 2014 is coming soon.
 
 Plz don't click on Version 1.3.1.
 
-I wonder why is the version 1.3.1 button trying to cover half of the version 1.30.0 button.
+I wonder why is the version 1.3.1 button is trying to cover half of the version 1.30.0 button.
