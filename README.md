@@ -1,6 +1,8 @@
 # XPMUser.github.io
 Botanist Gabriel has higher data than Connor Monstertamer. How to make the link below work? 
-Credits: Sitemaker: Slappygig/Daboss7173 Introducer: Ao28th28/Mr. Inquiry Original maker: Rohan Mahimker/Alexander Peters
+Credits: Sitemaker: Slappygig/Daboss7173 
+Introducer: Ao28th28/Mr. Inquiry 
+Original maker: Rohan Mahimker/Alexander Peters
 
 I gave credits above.
 
