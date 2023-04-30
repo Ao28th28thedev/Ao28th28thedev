@@ -12,8 +12,4 @@ I gave credits above.
 XPMUser is the default username of an account to use in Windows XP Mode in Windows 7.
 I'm Ao28th28 (PVZ Unknown Edition Maker).
 
-Version 1.3.1 from 2014 is coming soon.
-
-Plz don't click on Version 1.3.1.
-
-I wonder why is the version 1.3.1 button is trying to cover half of the version 1.30.0 button.
+Version 1.3.1 is not the same as in 2014!
