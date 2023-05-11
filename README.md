@@ -1,5 +1,5 @@
 # XPMUser.github.io
-Botanist Gabriel has higher data than Connor Monstertamer. 
+I'm Gabriel the W12-4RD/Botanist Gabriel
 
 Credits: Sitemaker: Slappygig/Daboss7173 
 
