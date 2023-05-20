@@ -3,7 +3,7 @@ I'm Gabriel the W12-4RD/Botanist Gabriel
 
 Credits: Sitemaker: Slappygig/Daboss7173 
 
-Introducer: Ao28th28/Mr. Inquiry 
+Introducers: Ao28th28/Mr. Inquiry 
 
 Original maker: Rohan Mahimker/Alexander Peters
 
