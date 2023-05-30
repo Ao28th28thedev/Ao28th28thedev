@@ -1,7 +1,7 @@
 # XPMUser.github.io
 I'm Gabriel the W12-4RD/Botanist Gabriel
 
-Credits: Sitemaker: Slappygig/Daboss7173 
+Credits: Sitemakers: Slappygig/Daboss7173 
 
 Introducers: Ao28th28/Mr. Inquiry 
 
