@@ -1,9 +1,9 @@
 # XPMUser.github.io
-I'm Gabriel the W12-4RD/Botanist Gabriel
+My wizard name is 'Gabriel Lifedreamer' with random nicknames.
 
-Credits: Sitemakers: Slappygig/Daboss7173 
+Credits: Sitemakers: Slappygig, XPMUser/Ao28th28 and Daboss7173 
 
-Introducers: Ao28th28/Mr. Inquiry 
+Introducers: Ao28th28 a.k.a XPMUser and Mr. Inquiry 
 
 Original maker: Rohan Mahimker/Alexander Peters
 
