@@ -1,6 +1,7 @@
 # XPMUser.github.io
 
-Credits: Sitemakers: Slappygig, XPMUser/Ao28th28, Cookie and Daboss7173 
+Credits: Sitemakers: Daboss7173 
+Site Modifiers: Slappygig, XPMUser/Ao28th28, Cookie and more
 
 Introducers: Ao28th28 a.k.a XPMUser, Mr. Inquiry and more
 
