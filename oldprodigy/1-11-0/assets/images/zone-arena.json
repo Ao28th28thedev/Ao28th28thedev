@@ -1,0 +1,48 @@
+{"frames": {
+
+"bg":
+{
+	"frame": {"x":2,"y":2,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"vase":
+{
+	"frame": {"x":1284,"y":74,"w":70,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":78},
+	"sourceSize": {"w":70,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"vase2":
+{
+	"frame": {"x":1284,"y":154,"w":58,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":78},
+	"sourceSize": {"w":58,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"vase3":
+{
+	"frame": {"x":1284,"y":2,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zone-arena.png",
+	"format": "RGBA8888",
+	"size": {"w":1366,"h":724},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ce084206b1ff887f43ca3c18a723231c:d639e2836b853f2e42615f382c51ef13:91e5d8820d999bfa0d3e45419a7be649$"
+}
+}
