@@ -5,7 +5,7 @@ Site Modifiers: Slappygig, XPMUser/Ao28th28, Cookie and more
 
 Introducers: Ao28th28 a.k.a XPMUser, Mr. Inquiry and more
 
-Original maker: Rohan Mahimker/Alexander Peters
+Original Prodigy Makers: Rohan Mahimker/Alexander Peters
 
 I gave credits above.
 
