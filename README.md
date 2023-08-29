@@ -123,4 +123,8 @@ This is the first version with Clockwork Town.
 
    The New Academy is coming to Old Prodigy soon!
 
+- 6.136.0 | Multiplayer Mode!
+  
+  https://sso.prodigygame.com/game/login/ Time Travel to the past to get Multiplayer Mode for earlier versions!
+
 Pick any version you want!
