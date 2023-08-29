@@ -16,7 +16,7 @@ Version 1.3.1 is not the same as in 2014 yet!
 
 Old Prodigy English is coming soon!
 
-## Versions choice list!
+## List of Versions!
 
 List of versions informations:
 
