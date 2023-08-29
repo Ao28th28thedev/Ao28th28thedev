@@ -117,6 +117,6 @@ This is the first version with Clockwork Town.
 
  - 2.7.0 | Coming Soon!
 
- The New Academy is coming to Old Prodigy soon!
+   The New Academy is coming to Old Prodigy soon!
 
 Pick any version you want!
