@@ -16,6 +16,43 @@ Version 1.3.1 is not the same as in 2014 yet!
 
 Old Prodigy English is coming soon!
 
+# Old Prodigy
+
+This is some pretty simple modding of older versions of Prodigy, to get them to work right now, in the present day!
+If you want a little dose of nostalgia from older Prodigy versions, no matter what the purpose - 
+seeing the older battle systems, the older quests, or anything of the sort - 
+then you know where you are, and you know what to do!
+
+There are a lot of versions to choose from based on your preferences, covering YEARS worth of updates from Prodigy's team!
+
+I am still actively working on bettering it, so if you have any problems with bugs, glitches, etc. Just make an issue
+and I'll try to address it as soon as I can!
+
+There are also forks of my mods. Check them out whenever you get the chance! They're awesome!
+
+## How to play
+
+Playing this couldn't be more simple. First thing you have to do is open the site, which is automatically updated from this
+repository!
+
+To do so, you just click on any link here: https://xpmuser.github.io/oldprodigy or https://xpmuser.github.io/oldprodigy/select
+
+Once you're there, you can select a version to play. There are LOTS of versions to choose from, so try not to be overwhelmed
+by the number of choices, and there are still more versions and updates to come!
+
+Once you've selected a version, it'll take you to the login screen where you have 3 options. To create a new wizard, to start in offline mode,
+or to load a previous save.
+
+If you want to start a quick game and not configure how your character appears, you should choose offline mode, but in Spring 2015 versions, you have to click on the new wizard button and then the generate random button.
+
+If you want to start a new game and configure your character however you want, you should choose to create a new character.
+
+If you want to load a character that you've already saved, you click load character and select your save file.
+
+To save your character, you can just go into the settings menu, go under 'network' and click the button called "save character". It'll automatically download
+to your computer, For this I recommend manually choosing a folder to save it in so you can organize it as you need. If there is no network tab in the version
+you're playing in, click the 'other' tab instead.
+
 ## List of Versions!
 
 List of versions informations:
