@@ -61,7 +61,7 @@ List of versions informations:
 
 This is almost 1.16.5, not the one that JordanHH used.
 
-- 1.7.1 | Coming Soon!
+- 1.7.0 | Coming Soon!
 
 This doesn't have the Merchants nor Dyno Dig Oasis.
 
