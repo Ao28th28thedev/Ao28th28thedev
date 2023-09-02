@@ -57,13 +57,21 @@ you're playing in, click the 'other' tab instead.
 
 List of versions informations:
 
+- 1.2.0 | Coming Soon!
+
+This doesn't even have the Dark Tower.
+
 - 1.3.1 | Version 1.16.5
 
-This is almost 1.16.5, not the one that JordanHH used.
+This is 1.16.5 alike, not the one that JordanHH used.
 
 - 1.7.0 | Coming Soon!
 
 This doesn't have the Merchants nor Dyno Dig Oasis.
+
+- 1.8.1 | Coming Soon!
+
+This has the Dyno Dig Oasis thing on the login screen.
 
 - 1.8.9 | Early 2015 Beta Testing
 
@@ -160,7 +168,7 @@ This is the first version with Clockwork Town.
 
    The New Academy is coming to Old Prodigy soon!
 
-- 6.136.0 | Multiplayer Mode!
+- Current Version | Multiplayer Mode!
   
   https://sso.prodigygame.com/game/login/ Time Travel to the past to get Multiplayer Mode for earlier versions!
 
