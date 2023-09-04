@@ -53,6 +53,12 @@ To save your character, you can just go into the settings menu, go under 'networ
 to your computer, For this I recommend manually choosing a folder to save it in so you can organize it as you need. If there is no network tab in the version
 you're playing in, click the 'other' tab instead.
 
+## Modpacks
+
+This repository features dynamic modpacks, you will be able to toggle mods as you see fit, and be able to combine multiple mods together for dynamic modpacks.
+
+Currently, the only version that supports modpacks is 1-30-0, but there are plans to add more versions in the future!
+
 ## List of Versions!
 
 List of versions informations:
@@ -64,6 +70,14 @@ This doesn't even have the Dark Tower.
 - 1.3.1 | Version 1.16.5
 
 This is 1.16.5 alike, not the one that JordanHH used.
+
+- 1.5.0 | Coming Soon!
+
+This has Version 1.11.0's quests thing. The leaderboards can't be viewed yet.
+
+- 1.6.0 | Coming Soon!
+
+Just like 1.5.0.
 
 - 1.7.0 | Coming Soon!
 
@@ -89,16 +103,16 @@ This was supposed to have the assets for most zones, but Prodigy Education took 
 
 This is the first version with Clockwork Town.
 
-- 1.12.2 | The oldest version that can run essentially flawlessly.
+- 1.12.2 | The older version that can run essentially flawlessly.
 
   Now don't get me wrong, this isn't the oldest version of Prodigy ever, but it's pretty old! Lots of old elements around that aren't seen in newer versions.
   
-- 1.16.5 | The oldest version with all of the legacy quests, and the element selection.
+- 1.16.5 | The older version with all of the legacy quests, and the element selection.
 
   This is a version that I recommend in particular, it's kind of like 1.11.0 - but it's generally a lot more stable. In fact this version
   is one of the most stable Prodigy versions on this site!
 
-- 1.17.0 | The oldest version with tileset-style maps!
+- 1.17.0 | The older version with tileset-style maps!
 
   This version was the first to introduce an old tutorial from 9/8/2015, more in-depth than 1.16.5 and before, which would end up being used all the way up to 1.30.0!
   Not only did this version have that, but it also introduced the precursor to the modern firefly forest (before they updated the tileset and updated Flora's sprite)
@@ -124,6 +138,10 @@ This is the first version with Clockwork Town.
   This version introduced a refresh on the battle system, with a new health meter not using hearts, but a health bar! It also shows how much damage is dealt in
   each attack, and introduces critical hits. This also has leveling up mid-battle and some new animations to accompany this! This version also has the Firefly Forest reskin,
   which looks really cool!
+
+  - 1.46.2 | Potions and Epic Attacks!?
+  This version added not only Potions, but was also the first to have Epic Attacks! The tutorial route was also re-worked a bit. Rather than going through the heart of
+  Lamplight town, this version just passes through the shop district, and is overall a less drawn-out tutorial.
 
 - 1.50.0 | Lots of significant changes added in!
 
