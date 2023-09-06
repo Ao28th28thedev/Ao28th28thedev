@@ -117,6 +117,12 @@ This is the first version with Clockwork Town.
   This version was the first to introduce an old tutorial from 9/8/2015, more in-depth than 1.16.5 and before, which would end up being used all the way up to 1.30.0!
   Not only did this version have that, but it also introduced the precursor to the modern firefly forest (before they updated the tileset and updated Flora's sprite)
 
+- 1.18.2 | All Hallow's Eve!
+
+  This version is really neat because it has the first Pumpkinfest! This means Halloween decorations are all around the map, and there's a Pumpkinfest shop, with all-kinds
+  of exclusive, creepy items and gear you can buy with your gold! Other than that it's pretty much just like 1.17.0.
+
+
 - 1.24.0 | A whole lot of stuff added in!
 
   This version introduced the new Shiverchill Mountains quests, a new tile-based Lamplight town, as well as a LOT of new menu designs added in.
