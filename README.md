@@ -35,7 +35,7 @@ There are also forks of my mods. Check them out whenever you get the chance! The
 Playing this couldn't be more simple. First thing you have to do is open the site, which is automatically updated from this
 repository!
 
-To do so, you just click on any link here: https://xpmuser.github.io/oldprodigy or https://xpmuser.github.io/oldprodigy/select
+To do so, you just click on any link here: https://ao28th28.github.io/oldprodigy or https://ao28th28.github.io/oldprodigy/select
 
 Once you're there, you can select a version to play. There are LOTS of versions to choose from, so try not to be overwhelmed
 by the number of choices, and there are still more versions and updates to come!
