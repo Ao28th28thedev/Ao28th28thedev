@@ -1,4 +1,4 @@
-# XPMUser.github.io
+# Ao28th28.github.io
 Click on the left arrow to go back.
 Credits: Sitemakers: Daboss7173 
 Site Modifiers: Slappygig, XPMUser/Ao28th28, Cookie and more
@@ -188,9 +188,11 @@ This is the first version with Clockwork Town.
   What? Again? That was quick- Ah don't worry about it, that'll be the last major revision for the next 4 and a half years! Whew, thank goodness. Anyway, this marks a point
   where a lot of previously bitmap-based fonts start to get replaced by vector fonts. There are also a lot of more obscure and internal changes but who cares about that, the battle revision is the focus here. Anyway to go into more detail about the battle revision, basically everything has a LOT of health now, attacks do more damage, higher leveled players/pets are way more powerful, and relics and wands have spells associated with them rather than choosing them in a spellbook. The older spells also were completely phased out in favor of newer spells with smoother animation, but that's the gist.
 
- - 2.7.0 | Coming Soon!
+- 2.20.0 | Getting some gale force winds here guys
 
-   The New Academy is coming to Old Prodigy soon!
+  This update has the academy! You'll be able to go into the archives, meet Gale, and do all sorts of stuff there. There is also a lot of GUI changes here. The character
+  name now uses a vector font now. The settings menu also got a glow-up! Also, this version happens to be really stable. Like REALLY stable. I definitely recommend giving
+  it a shot!
 
 - Current Version | Multiplayer Mode!
   
