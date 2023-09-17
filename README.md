@@ -196,7 +196,7 @@ This is the first version with Clockwork Town.
 
 - 2.30.0 | New Nicknames!
 
-  This update has new nicknames and Winterfest! 
+  This update has new nicknames and Winterfest! The nicknamer thing also got redesigned.
 
 - Current Version | Multiplayer Mode!
   
