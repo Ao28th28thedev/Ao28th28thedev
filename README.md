@@ -198,6 +198,9 @@ This is the first version with Clockwork Town.
 
   This update has new nicknames and Winterfest! The nicknamer thing also got redesigned.
 
+- 2.40.0 | Coming Soon!
+
+  The Earth Tower is back in business.
 - Current Version | Multiplayer Mode!
   
   https://sso.prodigygame.com/game/login/ Time Travel to the past to get Multiplayer Mode for earlier versions!
