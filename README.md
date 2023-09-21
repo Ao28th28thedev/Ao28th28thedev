@@ -63,6 +63,10 @@ Currently, the only version that supports modpacks is 1-30-0, but there are plan
 
 List of versions informations:
 
+- 1.0.0 | Coming Soon!
+
+No house, skywatch or the dark tower found in this version!
+
 - 1.2.0 | Coming Soon!
 
 This doesn't even have the Dark Tower.
