@@ -201,7 +201,17 @@ This is the first version with Clockwork Town.
 - 2.40.0 | Coming Soon!
 
   The Earth Tower is back in business.
-- Current Version | Multiplayer Mode!
+
+- 3.0.0 | Coming Soon!
+
+  Coming Soon!
+
+- 6.136.0 | Coming Soon!
+
+  New wizard looks and other new stuff.
+  New unknown outfit: seafoam tank top with fuchsia underwear
+    
+- The Current Version | Multiplayer Mode!
   
   https://sso.prodigygame.com/game/login/ Time Travel to the past to get Multiplayer Mode for earlier versions!
 
