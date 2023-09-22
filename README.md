@@ -1,9 +1,9 @@
 # Ao28th28.github.io
 Click on the left arrow to go back.
 Credits: Sitemakers: Daboss7173 
-Site Modifiers: Slappygig, XPMUser/Ao28th28, Cookie and more
+Site Modifiers: Slappygig, XPMUser/Ao28th28, Cookie, Daboss7173, and more
 
-Introducers: Ao28th28 a.k.a XPMUser, Mr. Inquiry and more
+Introducers: Ao28th28 a.k.a XPMUser, Mr. Inquiry, and more
 
 Original Prodigy Makers: Rohan Mahimker/Alexander Peters
 
@@ -57,7 +57,7 @@ you're playing in, click the 'other' tab instead.
 
 This repository features dynamic modpacks, you will be able to toggle mods as you see fit, and be able to combine multiple mods together for dynamic modpacks.
 
-Currently, the only version that supports modpacks is 1-30-0, but there are plans to add more versions in the future!
+Currently, the only version that supports modpacks are 1-30-0 and 1-50-0, but there are plans to add more versions in the future!
 
 ## List of Versions!
 
@@ -97,7 +97,7 @@ This has the Dyno Dig Oasis thing on the login screen.
 
 - 1.8.9 | Early 2015 Beta Testing
 
-This was supposed to be in early 2015, but we think that nobody saw this version.
+This was supposed to be in early 2015, but we think that nobody has seen this version before.
 
 - 1.9.0 | March 2015
 
