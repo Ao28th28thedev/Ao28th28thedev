@@ -61,7 +61,15 @@ Currently, the only version that supports modpacks is 1-30-0, but there are plan
 
 ## List of Versions!
 
-List of versions informations:
+List of versions:
+
+- -99999999999999999.-999999999999999999999.-9 | Coming Soon!
+
+https://vimeo.com/49872244
+
+- 0.0.0 | Coming Soon!
+
+https://vimeo.com/49872244
 
 - 1.0.0 | Coming Soon!
 
@@ -186,6 +194,10 @@ This is the first version with Clockwork Town.
 
   The leaderboards got overhauled a bit and overall look way brighter than before. Also, the Dyno Dig Oasis quests are phased out now, Professor Scoog is now a shopkeeper.
   This version also includes some general stability improvements, and the first Springfest in Prodigy was also here. Also a lot of new music was added in!
+
+- 2.0.0 | Coming Soon!
+
+  Coming Soon!
 
 - 2.6.0 | Another battle overhaul!
 
