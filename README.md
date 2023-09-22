@@ -57,7 +57,9 @@ you're playing in, click the 'other' tab instead.
 
 This repository features dynamic modpacks, you will be able to toggle mods as you see fit, and be able to combine multiple mods together for dynamic modpacks.
 
-Currently, the only version that supports modpacks are 1-30-0 and 1-50-0, but there are plans to add more versions in the future!
+Currently, these are the versions that support modpacks:
+ - 1-30-0
+ - 1-50-0
 
 ## List of Versions!
 
