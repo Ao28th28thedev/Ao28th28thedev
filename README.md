@@ -61,11 +61,7 @@ Currently, the only version that supports modpacks is 1-30-0, but there are plan
 
 ## List of Versions!
 
-List of versions:
-
-- -99999999999999999.-999999999999999999999.-9 | Coming Soon!
-
-https://vimeo.com/49872244
+List of version choices:
 
 - 0.0.0 | Coming Soon!
 
