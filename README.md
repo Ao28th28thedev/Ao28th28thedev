@@ -225,13 +225,13 @@ This is the first version with Clockwork Town.
 
   Coming Soon!
 
-- 6.136.0 | Coming Soon!
+- 6.136.0 | Coming Soon! NEW AVATAR!? EW! 2
 
-  New wizard looks and other new stuff.
-  New unknown outfit: seafoam tank top with fuchsia underwear
+  New wizard looks and other new stuff. Making faces for free is no longer available. 
+  New unknown outfit: seafoam tank top with fuchsia underwear.
     
 - The Current Version | Multiplayer Mode!
   
-  https://sso.prodigygame.com/game/login/ Time Travel to the past to get Multiplayer Mode for earlier versions!
+  https://sso.prodigygame.com/game/login/ Time Travel to the past to get Multiplayer Mode for the earlier versions!
 
 Pick any version you want!
