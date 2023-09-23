@@ -126,8 +126,12 @@ This is the first version with Clockwork Town.
 - 1.17.0 | The older version with tileset-style maps!
 
   This version was the first to introduce an old tutorial from 9/8/2015, more in-depth than 1.16.5 and before, which would end up being used all the way up to 1.30.0!
-  Not only did this version have that, but it also introduced the precursor to the modern firefly forest (before they updated the tileset and updated Flora's sprite)
+  Not only did this version have that, but it also introduced the precursor to the modern firefly forest (before they updated the tileset and updated Flora's sprite).
 
+- 1.17.5 | 1-17-0!
+
+  This is the same as in 1-17-0!
+  
 - 1.18.2 | All Hallow's Eve!
 
   This version is really neat because it has the first Pumpkinfest! This means Halloween decorations are all around the map, and there's a Pumpkinfest shop, with all-kinds
