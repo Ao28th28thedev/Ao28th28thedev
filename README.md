@@ -68,51 +68,51 @@ List of version choices:
 
 - 0.0.0 | Coming Soon!
 
-https://vimeo.com/49872244
+  https://vimeo.com/49872244
 
 - 1.0.0 | Coming Soon!
 
-No house, skywatch or the dark tower found in this version!
+  No house, skywatch or the dark tower found in this version!
 
 - 1.2.0 | Coming Soon!
 
-This doesn't even have the Dark Tower.
+  This doesn't even have the Dark Tower.
 
 - 1.3.1 | Version 1.16.5
 
-This is 1.16.5 alike, not the one that JordanHH used.
+  This is 1.16.5 alike, not the one that JordanHH used.
 
 - 1.5.0 | Coming Soon!
 
-This has Version 1.11.0's quests thing. The leaderboards can't be viewed yet.
+  This has Version 1.11.0's quests thing. The leaderboards can't be viewed yet.
 
 - 1.6.0 | Coming Soon!
 
-Just like 1.5.0.
+  Just like 1.5.0.
 
 - 1.7.0 | Coming Soon!
 
-This doesn't have the Merchants nor Dyno Dig Oasis.
+  This doesn't have the Merchants nor Dyno Dig Oasis.
 
 - 1.8.1 | Coming Soon!
 
-This has the Dyno Dig Oasis thing on the login screen.
+  This has the Dyno Dig Oasis thing on the login screen.
 
 - 1.8.9 | Early 2015 Beta Testing
 
-This was supposed to be in early 2015, but we think that nobody has seen this version before.
+  This was supposed to be in early 2015, but we think that nobody has seen this version before.
 
 - 1.9.0 | March 2015
 
-This is almost like the real 1.10.0, but it's modified like the other versions I have.
+  This is almost like the real 1.10.0, but it's modified like the other versions I have.
 
 - 1.10.0 | March 2015
 
-This was supposed to have the assets for most zones, but Prodigy Education took them down. Credits to Prodigy Education, Daboss7173 and more.
+  This was supposed to have the assets for most zones, but Prodigy Education took them down. Credits to Prodigy Education, Daboss7173 and more.
 
 - 1.11.0 | April 2015
 
-This is the first version with Clockwork Town.
+  This is the first version with Clockwork Town.
 
 - 1.12.2 | The older version that can run essentially flawlessly.
 
