@@ -229,6 +229,10 @@ List of version choices:
 
   New wizard looks and other new stuff. Making faces for free is no longer available. 
   New unknown outfit: seafoam tank top with fuchsia underwear.
+
+- Prodigy Reborn 1.0 | Not Recommended!
+
+  Too many bugs! (':(')
     
 - The Current Version | Multiplayer Mode!
   
