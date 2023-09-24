@@ -232,7 +232,7 @@ List of version choices:
 
 - Prodigy Reborn 1.0 | Not Recommended!
 
-  Too many bugs! (':(')
+  https://web.archive.org/web/20200402165645/http://hedgehogstew.today/prodigyclassic/1-30-0.html
     
 - The Current Version | Multiplayer Mode!
   
