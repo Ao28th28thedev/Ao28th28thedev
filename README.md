@@ -59,7 +59,7 @@ This repository features dynamic modpacks, you will be able to toggle mods as yo
 
 Currently, these are the versions that support modpacks:
  - 1-8-9 (Coming Soon!)
- - 1-30-0
+ - 1-30-0 (:()
  - 1-50-0
 
 ## List of Versions!
