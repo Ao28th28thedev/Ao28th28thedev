@@ -236,6 +236,6 @@ List of version choices:
     
 - The Current Version | Multiplayer Mode!
   
-  https://sso.prodigygame.com/game/login/ Time Travel to the past to get Multiplayer Mode for the earlier versions!
+  https://sso.prodigygame.com/game/login/ Time Travel to the past to get the Multiplayer Mode for the earlier versions!
 
 Pick any version you want!
