@@ -232,7 +232,7 @@ List of version choices:
 
 - Prodigy Reborn 1.0 | Not Recommended!
 
-  Too many bugs for the saves in later than April 2020. The saves don't even work in here without the bugs.
+  Too many bugs for the saves in later than April 2020. The saves don't even work in here without the bugs. At least the going home error doesn't occur for any 1-30-0 saves.
     
 - The Current Version | Multiplayer Mode!
   
