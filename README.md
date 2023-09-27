@@ -230,7 +230,7 @@ List of version choices:
 
 - 3.0.0 | Coming Soon!
 
-  Coming Soon!
+  TBA
 
 - 6.136.0 | Coming Soon! NEW AVATAR!? EW! 2
 
