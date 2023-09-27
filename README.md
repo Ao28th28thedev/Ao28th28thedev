@@ -98,7 +98,7 @@ List of version choices:
 
   This has the Dyno Dig Oasis thing on the login screen.
 
-- 1.8.9 | Early 2015 Beta Testing
+- 1.8.9 | Early 2015 Beta Testing!
 
   This was supposed to be in early 2015, but we think that nobody has seen this version before.
 
