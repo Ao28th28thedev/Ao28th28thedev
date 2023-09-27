@@ -94,7 +94,7 @@ List of version choices:
 
   This doesn't have the Merchants nor Dyno Dig Oasis.
 
-- 1.8.1 | Coming Soon!
+- 1.8.0 | Coming Soon!
 
   This has the Dyno Dig Oasis thing on the login screen.
 
