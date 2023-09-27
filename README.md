@@ -66,10 +66,6 @@ Currently, these are the versions that support modpacks:
 
 List of version choices:
 
-- 0.0.0 | Coming Soon!
-
-  https://vimeo.com/49872244
-
 - 1.0.0 | Coming Soon!
 
   No house, skywatch or the dark tower found in this version!
@@ -78,13 +74,13 @@ List of version choices:
 
   This doesn't even have the Dark Tower.
 
-- 1.3.1 | Version 1.16.5
+- 1.3.1 | Version 1.16.5! (The real one is coming soon.)
 
   This is 1.16.5 alike, not the one that JordanHH used.
 
 - 1.5.0 | Coming Soon!
 
-  This has Version 1.11.0's quests thing. The leaderboards can't be viewed yet.
+  This has the 1-11-0's quests thing. The leaderboards can't be viewed yet.
 
 - 1.6.0 | Coming Soon!
 
@@ -137,16 +133,27 @@ List of version choices:
   This version is really neat because it has the first Pumpkinfest! This means Halloween decorations are all around the map, and there's a Pumpkinfest shop, with all-kinds
   of exclusive, creepy items and gear you can buy with your gold! Other than that it's pretty much just like 1.17.0.
 
+- 1.20.1 | New Shiverchill Mountains! Coming Soon!
+
+  Shiverchill Mountains now has the walking quests. 
 
 - 1.24.0 | A whole lot of stuff added in!
 
-  This version introduced the new Shiverchill Mountains quests, a new tile-based Lamplight town, as well as a LOT of new menu designs added in.
-  Pretty safe to say a LOT happened between 1.17.0, and this version.
+  This version introduced a new tile-based Lamplight town, and a LOT of new menu designs added in.
+  Pretty safe to say a LOT happened between 1.20.1, and this version.
+
+- 1.25.3 | Big Hex now exists! Coming Soon!
+
+  You can now adopt Big Hex by using settings (the options menu) and another way to adopt Big Hex was in 2016 and it's no longer doable. The portal is now on the 2014-2016's map.
 
 - 1.30.0 | Just as many radical changes!
 
   This version had the updated Skywatch, the updated Bonfire Spire, AND an updated map screen! This version also introduced achievements and all kinds of
   other, more subtle changes. This version is another one that I really recommend trying out, another definitive update.
+
+- 1.35.0 | Coming Soon!
+
+  TBA
 
 - 1.37.0 | New Lamplight Town and tutorial!
 
