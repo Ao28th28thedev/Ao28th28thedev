@@ -223,7 +223,7 @@ List of version choices:
 
   This update has new nicknames and Winterfest! The nicknamer thing also got redesigned.
 
-- 2.40.0 | Coming Soon!
+- 2.45.0 | The Earth Tower!
 
   The Earth Tower is back in business.
 
