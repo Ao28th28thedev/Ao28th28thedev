@@ -225,7 +225,7 @@ List of version choices:
 
 - 2.45.0 | The Earth Tower!
 
-  The Earth Tower is back in business.
+  The Earth Tower is back in business and plus, you can have All-Out-Attack once the energy's full.
 
 - 3.0.0 | Coming Soon!
 
