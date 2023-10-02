@@ -133,7 +133,7 @@
 	
 	<div id="background-7" class="bg-image" style="background-image: url(&quot;./images/Background-7.png&quot;); display: none"></div>
 
-	<div id="background-8" class="bg-image" style="background-image: url(&quot;./images/Background-8.png&quot;); display: none"></div>
+	<div id="background-8" class="bg-image" style="background-image: url(&quot;./images/Background-8.png&quot;); display: none"></div>	
 	
 	<div class="warning-panel" id="beta-popup" draggable="false">
 		<img alt="Warning!" src="./images/WarningPanel.png" draggable="false">
@@ -180,7 +180,7 @@
 							<img alt="1-30-0" src="./images/1-30-0.png" draggable="false">
 						</div>
 					</a>
-
+					
 					<a onclick="ModSelector('1-50-0')" class="button" style="top: 60px; left: 12px; position: absolute" draggable="false">
 						<img src="./images/ModSelectButton.png" draggable="false">
 						
@@ -212,7 +212,7 @@
 					<a onclick="StartGameMod('1-30-0')" class="button" style="top: 280px; right: 12px; position: absolute" draggable="false">
 						<img alt="Start" src="./images/Start.png" draggable="false">
 					</a>
-
+				
 				</div>
 				
 				<div id="mods-1-50-0" style="display: none" draggable="false">
@@ -232,43 +232,19 @@
 							<img alt="Fast Game Speed" src="./images/FastGameSpeed.png" draggable="false">
 						</div>
 					</a>
-
+				
 					<a onclick="AddMod('RebalancedBattles', '1-50-0')" class="button" style="top: 110px; left: 12px; position: absolute" draggable="false">
 						<img id="mod-RebalancedBattles-1-50-0" src="./images/ModSelectButton.png" draggable="false">
 						
 						<div class="intext" id="select-mod-version" draggable="false">
 							<img alt="Rebalanced Battles" src="./images/RebalancedBattles.png" draggable="false">
 						</div>
-					</a>					
+					</a>
 					
 					<a onclick="StartGameMod('1-50-0')" class="button" style="top: 280px; right: 12px; position: absolute" draggable="false">
 						<img alt="Start" src="./images/Start.png" draggable="false">
 					</a>
-
-				</div>
 				
-				<div id="mods-1-8-9" style="display: none" draggable="false">
-				
-					<a onclick="AddMod('WalkSpeed', '1-8-9')" class="button" style="top: 10px; left: 12px; position: absolute" draggable="false">
-						<img id="mod-WalkSpeed-1-8-9" src="./images/ModSelectButton.png" draggable="false">
-						
-						<div class="intext" id="select-mod-version" draggable="false">
-							<img alt="Walk Speed" src="./images/WalkSpeed.png" draggable="false">
-						</div>
-					</a>
-				
-					<a onclick="AddMod('FastGameSpeed', '1-8-9')" class="button" style="top: 60px; left: 12px; position: absolute" draggable="false">
-						<img id="mod-FastGameSpeed-1-8-9" src="./images/ModSelectButton.png" draggable="false">
-						
-						<div class="intext" id="select-mod-version" draggable="false">
-							<img alt="Fast Game Speed" src="./images/FastGameSpeed.png" draggable="false">
-						</div>
-					</a>
-					
-					<a onclick="StartGameMod('1-8-9')" class="button" style="top: 280px; right: 12px; position: absolute" draggable="false">
-						<img alt="Start" src="./images/Start.png" draggable="false">
-					</a>					
-					
 				</div>
 		</div>
 		
@@ -346,10 +322,30 @@ Menu = {
 Pages = [],
 Versions = [
 	{
+		src: "./images/1-8-9.png",
+		alt: "Version 1.8.9",
+		ver: "1-8-9"
+	},	
+	{
+		src: "./images/1-9-0.png",
+		alt: "Version 1.9.0",
+		ver: "1-9-0"
+	},	
+	{
+		src: "./images/1-10-0.png",
+		alt: "Version 1.10.0",
+		ver: "1-10-0"
+	},	
+	{
 		src: "./images/1-11-0.png",
 		alt: "Version 1.11.0",
 		ver: "1-11-0"
 	},
+	{
+		src: "./images/1-12-2.png",
+		alt: "Version 1.12.2",
+		ver: "1-12-2"
+	},	
 	{
 		src: "./images/1-16-5.png",
 		alt: "Version 1.16.5",
@@ -360,6 +356,11 @@ Versions = [
 		alt: "Version 1.17.0",
 		ver: "1-17-0"
 	},
+	{
+		src: "./images/1-17-5.png",
+		alt: "Version 1.17.5",
+		ver: "1-17-5"
+	},	
 	{
 		src: "./images/1-18-2.png",
 		alt: "Version 1.18.2",
@@ -441,7 +442,7 @@ ModPages = {
 		id: "mods-1-30-0"
 	},
 	"1-50-0": {
-		id: "mods-1-50-0"		
+		id: "mods-1-50-0"
 	},
 	selection: {
 		id: "versions-1"
@@ -486,7 +487,7 @@ Backgrounds = [
 	{
 		element: "background-8",
 		id: "8",
-		nid: 8		
+		nid: 8
 	}
 ],
 selectedMods = [],
