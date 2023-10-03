@@ -99,11 +99,11 @@ List of version choices:
 
 - 1.9.0 | March 2015
 
-  This is almost like the real 1.10.0, but it's modified like the other versions I have.
+  This version is really special, because it's the oldest one on this site! This is also the oldest version that has been preserved via the Internet Archive. This version features a tutorial that is different from all of these versions! You start off in the Academy, but then it falls under attack! You help defend the academy by battling off some of the monsters that are attacking the Academy! The wizard maker is also different here! You also setup which pet you start with in battle just before the battle starts, rather than in the pet menu.
 
 - 1.10.0 | March 2015
 
-  This was supposed to have the assets for most zones, but Prodigy Education took them down. Credits to Prodigy Education, Daboss7173 and more.
+  This was exactly the same as 1.9.0.
 
 - 1.11.0 | April 2015
 
