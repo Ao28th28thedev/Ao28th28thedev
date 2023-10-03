@@ -79,11 +79,11 @@ List of version choices:
 
 - 1.5.0 | Coming Soon!
 
-  This has the 1-11-0's quests thing. The leaderboards can't be viewed yet.
+  The was the last version to have the Leaderboards available and to name the Barnacle Cove, 'Pirate Isle'.
 
 - 1.6.0 | Coming Soon!
 
-  Just like 1.5.0.
+  This has the 1-11-0's quests thing. The leaderboards can't be viewed yet. Pirate Isle's name is Barnacle Cove.
 
 - 1.7.0 | Coming Soon!
 
