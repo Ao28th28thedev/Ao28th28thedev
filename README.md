@@ -145,10 +145,14 @@ List of version choices:
 
   You can now adopt Big Hex by using settings (the options menu) and another way to adopt Big Hex was in 2016 and it's no longer doable. The portal is now on the 2014-2016's map.
 
-- 1.30.0 | Just as many radical changes!
+- 1.29.0 | Just as many radical changes!
 
   This version had the updated Skywatch, the updated Bonfire Spire, AND an updated map screen! This version also introduced achievements and all kinds of
   other, more subtle changes. This version is another one that I really recommend trying out, another definitive update.
+
+- 1.30.0 | Same as 1.29.0!
+
+  TBA  
 
 - 1.35.0 | Coming Soon!
 
