@@ -139,7 +139,7 @@ List of version choices:
 
 - 1.24.0 | A whole lot of stuff added in!
 
-  This version introduced a new tile-based Lamplight town, and a LOT of new menu designs added in.
+  This version introduced a new tile-based Lamplight town, and a LOT of new menu designs added in. There's a problem going from Barnacle Cove to Lamplight Town without actually using the map.
   Pretty safe to say a LOT happened between 1.20.1, and this version.
 
 - 1.25.3 | Big Hex now exists! Coming Soon!
@@ -155,15 +155,14 @@ List of version choices:
 
   TBA  
 
-- 1.35.2 | Pumpkinfest!
-
-  TBA
-
-- 1.37.0 | New Lamplight Town and tutorial!
-
+- 1.35.2 | New Lamplight Town and tutorial and Pumpkinfest!
   This version had a brand-new tutorial, which is the base for the MODERN DAY Prodigy tutorial, even though it's been changed in multiple ways, the resemblance is
-  uncanny! This also brought in the modern-style Lamplight Town, now some things are arranged differently, but it's still essentially the same. This version
-  also has Winterfest, which is pretty cool if you're interested in that.
+  uncanny! This also brought in the modern-style Lamplight Town, now some things are arranged differently, but it's still essentially the same. 
+  Happy Halloween, plus the toolbar has gotten a new design. The pet buddy shop is still currently closed. The icons on the bar are also redesigned.
+
+- 1.37.0 | Winterfest!?
+
+  This version has Winterfest, which is pretty cool if you're interested in that. You can now buy pet buddies from the pet buddy shop. The Daily Login Bonus is also available. You don't have to complete Firefly Forest first to go to any zone. Going from Firefly Forest to Shiverchill Mountains, Shiverchill Mountains to Skywatch, Skywatch to Bonfire Spire, Bonfire Spire to Barnacle Cove, Bonfire Spire to Skywatch, Skywatch to Shiverchill Mountains, and Shiverchill Mountains to Firefly Forest without actually using the map is now impossible.
 
 - 1.39.0 | Crazy battle update!?
 
@@ -235,7 +234,7 @@ List of version choices:
 
 - 3.0.0 | Coming Soon!
 
-  TBA
+  The Lost Island doesn't exist anymore.
 
 - 6.136.0 | Coming Soon! NEW AVATAR!? EW! 2
 
