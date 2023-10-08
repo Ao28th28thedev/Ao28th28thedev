@@ -155,7 +155,7 @@ List of version choices:
 
   TBA  
 
-- 1.35.0 | Pumpkinfest!
+- 1.35.2 | Pumpkinfest!
 
   TBA
 
