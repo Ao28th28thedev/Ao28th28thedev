@@ -80,7 +80,7 @@ List of version choices:
 
 - 1.5.0 | Coming Soon!
 
-  The was the last version to have the Leaderboards available and to name the Barnacle Cove, 'Pirate Isle'.
+  This was the last version to have the Leaderboards available and to name the Barnacle Cove, 'Pirate Isle'.
 
 - 1.6.0 | Coming Soon!
 
