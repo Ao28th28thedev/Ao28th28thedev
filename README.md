@@ -156,6 +156,7 @@ List of version choices:
   TBA  
 
 - 1.35.2 | New Lamplight Town, new tutorial and Pumpkinfest!?
+  
   This version had a brand-new tutorial, which is the base for the MODERN DAY Prodigy tutorial, even though it's been changed in multiple ways, the resemblance is
   uncanny! This also brought in the modern-style Lamplight Town, now some things are arranged differently, but it's still essentially the same. 
   Happy Halloween, plus the toolbar has gotten a new design. The pet buddy shop is still currently closed. The icons on the bar are also redesigned.
