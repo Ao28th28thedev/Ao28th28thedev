@@ -264,6 +264,6 @@ List of version choices:
 
 - Prodigy Insider Preview (Canary Channel) | Coming Soon!
 
-  The lights have removed the shadows.
+  The lights have now removed the shadows.
 
 Pick any version you want!
