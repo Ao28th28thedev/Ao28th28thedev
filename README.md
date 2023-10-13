@@ -248,6 +248,22 @@ List of version choices:
     
 - The Current Version | Multiplayer Mode!
   
-  https://sso.prodigygame.com/game/login/ Time Travel to the past to get the Multiplayer Mode for the earlier versions!
+  https://play.prodigygame.com/ Time Travel to the past to get the Multiplayer Mode for the earlier versions!
+
+- Prodigy Insider Preview (Release Preview) | Coming Soon!
+
+  Coming Soon!
+
+- Prodigy Insider Preview (Beta Channel) | Coming Soon!
+
+  Coming Soon!
+
+- Prodigy Insider Preview (Dev Channel) | Coming Soon!
+
+  Coming Soon!
+
+- Prodigy Insider Preview (Canary Channel) | Coming Soon!
+
+  The lights have removed the shadows.
 
 Pick any version you want!
