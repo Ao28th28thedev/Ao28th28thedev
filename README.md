@@ -96,15 +96,15 @@ List of version choices:
 
 - 1.8.9 | Early 2015 Beta Testing!
 
-  This was supposed to be in early 2015, but we think that nobody has seen this version before.
+  This was supposed to be in early 2015.
 
 - 1.9.0 | March 2015
 
-  This version is really special, because it's the oldest one on this site! This is also the oldest version that has been preserved via the Internet Archive. This version features a tutorial that is different from all of these versions! You start off in the Academy, but then it falls under attack! You help defend the academy by battling off some of the monsters that are attacking the Academy! The wizard maker is also different here! You also setup which pet you start with in battle just before the battle starts, rather than in the pet menu.
+  This version is really special, because it's the oldest one on this site! This version features a tutorial that is different from all of these versions! You start off in the Academy, but then it falls under attack! You help defend the academy by battling off some of the monsters that are attacking the Academy! The wizard maker is also different here! You also setup which pet you start with in battle just before the battle starts, rather than in the pet menu.
 
 - 1.10.0 | March 2015
 
-  This was exactly the same as 1.9.0.
+  This was exactly the same as 1.9.0. This is also the oldest version that has been preserved via the Internet Archive.
 
 - 1.11.0 | April 2015
 
