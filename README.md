@@ -119,6 +119,10 @@ List of version choices:
   This is a version that I recommend in particular, it's kind of like 1.11.0 - but it's generally a lot more stable. In fact this version
   is one of the most stable Prodigy versions on this site!
 
+- 1.16.6 | The same as 1.16.5!
+
+  TBA
+
 - 1.17.0 | The older version with tileset-style maps!
 
   This version was the first to introduce an old tutorial from 9/8/2015, more in-depth than 1.16.5 and before, which would end up being used all the way up to 1.30.0!
