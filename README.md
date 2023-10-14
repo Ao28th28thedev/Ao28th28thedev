@@ -58,9 +58,10 @@ you're playing in, click the 'other' tab instead.
 This repository features dynamic modpacks, you will be able to toggle mods as you see fit, and be able to combine multiple mods together for dynamic modpacks.
 
 Currently, these are the versions that support modpacks:
- - 1-29-0 (https://xpmuser.github.io/oldprodigy/1-29-0/?mods=WalkSpeed,FastGameSpeed, https://xpmuser.github.io/oldprodigy/1-29-0/?mods=WalkSpeed, https://xpmuser.github.io/oldprodigy/1-29-0/?mods=FastGameSpeed, https://ao28th28.github.io/oldprodigy/1-29-0/?mods=WalkSpeed,FastGameSpeed https://ao28th28.github.io/oldprodigy/1-29-0/?mods=WalkSpeed, https://ao28th28.github.io/oldprodigy/1-29-0/?mods=FastGameSpeed)
+ - 1-29-0
  - 1-30-0
  - 1-50-0
+ - 2-45-0
 
 ## List of Versions!
 
