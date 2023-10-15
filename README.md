@@ -194,6 +194,10 @@ List of version choices:
   The loading system also got a bit of internal reworking in this update, meaning that some icons would have some loading issues, which is the main reason I
   recommend 1.50.0 over this update.
 
+- 1.52.0 | TBA
+
+  TBA
+
 - 1.60.0 | ARGH! OUR SHIP IS SINKING MATEYS! I THINK WE MIGHT WRECK!
 
   Ahem - anyway, this update was one of the first with the Starlight Festival! This update also introduced the new in-game chat, although it's not a big deal anyway since
