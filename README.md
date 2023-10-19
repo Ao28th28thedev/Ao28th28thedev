@@ -133,10 +133,14 @@ List of version choices:
 
   This is the same as in 1-17-0!
   
-- 1.18.2 | All Hallow's Eve!
+- 1.18.0 | All Hallow's Eve!
 
   This version is really neat because it has the first Pumpkinfest! This means Halloween decorations are all around the map, and there's a Pumpkinfest shop, with all-kinds
   of exclusive, creepy items and gear you can buy with your gold! Other than that it's pretty much just like 1.17.0.
+
+- 1.18.2 | 1.18.0!
+
+  This is the same as 1.18.0.
 
 - 1.20.1 | New Shiverchill Mountains! Coming Soon!
 
