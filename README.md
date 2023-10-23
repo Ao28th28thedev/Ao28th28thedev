@@ -85,13 +85,13 @@ List of version choices:
 
   This has the 1-11-0's quests thing. The leaderboards can't be viewed yet. Pirate Isle's name is Barnacle Cove.
 
-- 1.7.0 | Coming Soon!
+- 1.7.0 | TBA!
 
-  This doesn't have the Merchants nor Dyno Dig Oasis.
+  (Need to add)
 
-- 1.8.0 | Coming Soon!
+- 1.8.0 | TBA!
 
-  This has the Dyno Dig Oasis thing on the login screen.
+  (Need to add)
 
 - 1.8.9 | Early 2015 Beta Testing!
 
