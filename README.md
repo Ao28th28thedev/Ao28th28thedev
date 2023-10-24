@@ -277,4 +277,8 @@ List of version choices:
 
   The lights have now removed the shadows.
 
+ - 1.50.0 2 | PMGDE?!
+
+  This is the same as 1.50.0, except that you have to start over and the W12-4RD name is unavailable. The only nicknames that are available are Buccaneer, Captain, Treasure Hunter, First-mate, and beard the Pirate. 
+
 Pick any version you want!
