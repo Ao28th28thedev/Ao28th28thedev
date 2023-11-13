@@ -5464,9 +5464,10 @@ var Quests = function() {
 		return Util.isDefined(this.data[e]) ? this.data[e][t] : null
 	}, e.prototype.startQuestLine = function(e) {
 		Util.isDefined(this.data[e]) ? this.data[e].C = 1 : this.data[e] = {
+			C: 1
 		}
 	}, e.prototype.startQuest = function(e, t) {
-		return Util.isDefined(this.data[e]) ? this.data[e].C == t && Util.isDefined(this.data[e].A) : !1
+		Util.isDefined(this.data[e]) && (this.data[e].B = 1)
 	}, e.prototype.completeQuest = function(e, t, a, i) {
 		if (Util.isDefined(this.data[e]) && this.data[e].C == t) {
 			if (Util.isDefined(i.req))
@@ -6123,6 +6124,66 @@ var SystemMenu = function() {
 			}, 800, Phaser.Easing.Quadratic.Out).to({
 				y: 140
 			}, 400, Phaser.Easing.Quadratic.InOut).start(), this.backButton = TextButton.createBackButton(this.game, this, 330, this.game.world.height - 70, this.openMap.bind(this)), this.backButton.visible = !1, this.setupComplete = !0
+		}, e.prototype.createQuestElement = function() {
+			this.quests = new Element(this.game, this, -350, 250), new Panel(this.game, this.quests, 25, 0, 6, 4), new BitmapFont(this.game, this.quests, 40, -25, "Quest Progress", {
+				size: 20
+			});
+			for (var e = [
+				], t = 0; t < e.length; t++) {
+				var a = new Element(this.game, this.quests, e[t][1] - 40, e[t][2] - 40);
+				a.add(new Sprite(this.game, 0, 0, "core", "icon-base"));
+				var i = new Sprite(this.game, 0, 0, "icons", e[t][0].icon);
+				i.inputEnabled = !0, i.events.onInputDown.add(this.openMap.bind(this, e[t][0]), this);
+				var s = Math.floor(this.player.quests.getQuestProgress(e[t][0]) * i.height);
+				if (80 > s && (i.tint = 8947848, a.add(i)), s >= 1) {
+					i = new Sprite(this.game, 0, 0, "icons", e[t][0].icon);
+					var s = Math.floor(this.player.quests.getQuestProgress(e[t][0]) * i.height);
+					i.crop({
+						x: 0,
+						y: 0 + (80 - s),
+						width: i.width,
+						height: Math.max(1, s)
+					}), i.y = Math.floor(80 - s), i.inputEnabled = !0, i.events.onInputDown.add(this.openMap.bind(this, e[t][0]), this), a.add(i)
+				}
+			}
+			this.game.add.tween(this.quests).to({
+				x: 80
+			}, 800, Phaser.Easing.Quadratic.Out).to({
+				x: 50
+			}, 400, Phaser.Easing.Quadratic.InOut).start()
+		}, e.prototype.createTowerElement = function() {
+			this.progress = new Element(this.game, this, -350, 500), new Panel(this.game, this.progress, 25, 0, 6, 2), new BitmapFont(this.game, this.progress, 40, -25, "Dark Tower", {
+				size: 20
+			}), this.progress.add(new Sprite(this.game, 260, -30, "icons", "wizard"));
+			var e = this.player.getTowerProgress();
+			e = 0 === e ? "-not started-" : "Floor " + e, new BitmapFont(this.game, this.progress, 25, 30, e, {
+				size: 20,
+				width: 300,
+				align: "center"
+			}), this.game.add.tween(this.progress).to({
+				x: 80
+			}, 800, Phaser.Easing.Quadratic.Out).delay(50).to({
+				x: 50
+			}, 400, Phaser.Easing.Quadratic.InOut).start()
+		}, e.prototype.createKeyElement = function() {
+			this.keyItems = new Element(this.game, this, 1280, 250), new Panel(this.game, this.keyItems, 25, 0, 6, 3), new BitmapFont(this.game, this.keyItems, 40, -25, "Key Items", {
+				size: 20
+			});
+			for (var e = Items.data.key, t = 0; t < e.length; t++) {
+				var a = 40 + t % 3 * 90,
+					i = 15 + 110 * Math.floor(t / 3),
+					s = this.keyItems.add(new Sprite(this.game, a, i, "core", "icon-base"));
+				s.alpha = .25, this.game.prodigy.player.backpack.hasItem("key", e[t].ID) && (this.keyItems.add(new Sprite(this.game, a, i, "icons", "key/" + e[t].ID)), new BitmapFont(this.game, this.keyItems, a, i + 75, "lvl " + this.game.prodigy.player.backpack.getKeyItemData(e[t].ID, "lvl"), {
+					size: 20,
+					width: 80,
+					align: "center"
+				}))
+			}
+			this.game.add.tween(this.keyItems).to({
+				x: 850
+			}, 800, Phaser.Easing.Quadratic.Out).to({
+				x: 880
+			}, 400, Phaser.Easing.Quadratic.InOut).start()
 		}, e.prototype.openMap = function(e) {
 			var t = Util.isDefined(e);
 			t ? this.map.open(e) : this.map.visible = !1, this.data.visible = this.progress.visible = this.quests.visible = this.keyItems.visible = !t, this.hearts.visible = this.stars.visible = !t, this.backButton.visible = t
@@ -6650,7 +6711,7 @@ var Card = function() {
 			this.game.prodigy.player.backpack.data = this.playerAvatar.source.backpack.data,
 			this.game.prodigy.player.appearance.data = this.playerAvatar.source.appearance.data;
 			this.game.prodigy.player.isMember = !0
-			this.game.state.start("Academy")
+			this.game.state.start("Tutorial")
 		}, e
 	}(),
 	GenderModule = function() {
@@ -9800,7 +9861,7 @@ var Screen = function() {
 			}, 500, Phaser.Easing.Cubic.Out, !0), Util.isDefined(this.game.prodigy.sso.externalApp) && (this.usernameField.setValue("Engrade Login"), this.passwordField.setValue("Engrade Password"), this.login())
 		}, e.prototype.offlineMode = function() {
 			this.game.prodigy.player.isMember = !0;
-			Tutorial.stateNotComplete(this.game, Tutorial.states.LEFT_ACADEMY) ? this.game.state.start("Academy") : this.game.state.start("Forest")
+			Tutorial.stateNotComplete(this.game, Tutorial.states.LEFT_ACADEMY) ? this.game.state.start("Tutorial") : this.game.state.start("Forest")
 		}, e.prototype.openFileForCharacter = function () {
 			var fileCallback = this.loadCharacter;
 			var fileInput = document.createElement('input');
@@ -10677,7 +10738,7 @@ Tree.DATA = {
 };
 var Battle = function() {
 	function e(t) {
-		Screen.call(this, t, "Monster Challenge!", "battle", "battle"), this.area = "", this.teamA = new Array, this.teamB = new Array, this.runAwayCallback = null, this.victoryCallback = null, this.defeatCallback = null, this.type = e.TYPE_NORMAL
+		Screen.call(this, t, "Challenge!", "battle", "battle"), this.area = "", this.teamA = new Array, this.teamB = new Array, this.runAwayCallback = null, this.victoryCallback = null, this.defeatCallback = null, this.type = e.TYPE_NORMAL
 	}
 	return e.prototype = Object.create(Screen.prototype), e.TYPE_TUTORIAL = 0, e.TYPE_NORMAL = 1, e.prototype.preload = function() {
 		Screen.prototype.preload.call(this), this.game.assets.load(this.game.load, [this.screenName, "battle", "attacks", "bgm-battle", "bgm-victory"].concat(Hearts.getAssets())), Tutorial.stateComplete(this.game, Tutorial.states.COMPLETED_CATCH) || this.game.assets.load(this.game.load, ["zone-academy"]);
@@ -34120,6 +34181,19 @@ Items.getItemData = function(e, t) {
 		rarity: 0,
 		flavorText: "A strange-looking key adorned with a green jewel."
 	}],
+	key: [{
+		ID: 1,
+		name: "Shovel",
+		levels: 3
+	}, {
+		ID: 2,
+		name: "TEK-Y4",
+		levels: 5
+	}, {
+		ID: 3,
+		name: "TEMP",
+		levels: 3
+	}],
 	fish: [{
 		ID: 1,
 		name: "Fish",
@@ -36083,7 +36157,7 @@ Monsters.areEqual = function(e, t) {
 	},
 	48: {
 		ID: 48,
-		name: "Ash Winglet",
+		name: "Ashlet",
 		element: "fire",
 		life: "B-",
 		power: "A",
