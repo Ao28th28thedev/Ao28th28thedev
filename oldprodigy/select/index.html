@@ -8,8 +8,6 @@
 	
 	<style>
 	body {
-		background-color: #55B9A7;
-	}
 	
 	.bg-image {
 		height: 100%;
@@ -19,7 +17,9 @@
 		right: 0px;
 		bottom: 0px;
 		position: fixed;
-		background-size: cover;
+		background-size: cover;		background-color: #55B9A7;
+	}
+
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center center;
@@ -181,7 +181,23 @@
 			
 				<div id="versions-1" draggable="false">
 
-					<a onclick="ModSelector('1-29-0')" class="button" style="top: 10px; left: 12px; position: absolute" draggable="false">
+					<a onclick="ModSelector('oldprodigyde')" class="button" style="top: 10px; left: 12px; position: absolute" draggable="false">
+						<img src="./images/ModSelectButton.png" draggable="false">
+						
+						<div class="intext" draggable="false">
+							<img alt="oldprodigyde" src="./images/FreeButton-Definitive.png" draggable="false">
+						</div>
+					</a>	
+					
+					<a onclick="ModSelector('1-28-1')" class="button" style="top: 60px; left: 12px; position: absolute" draggable="false">
+						<img src="./images/ModSelectButton.png" draggable="false">
+						
+						<div class="intext" draggable="false">
+							<img alt="1-28-1" src="./images/1-28-1.png" draggable="false">
+						</div>
+					</a>					
+
+					<a onclick="ModSelector('1-29-0')" class="button" style="top: 110px; left: 12px; position: absolute" draggable="false">
 						<img src="./images/ModSelectButton.png" draggable="false">
 						
 						<div class="intext" draggable="false">
@@ -189,7 +205,7 @@
 						</div>
 					</a>					
 				
-					<a onclick="ModSelector('1-30-0')" class="button" style="top: 60px; left: 12px; position: absolute" draggable="false">
+					<a onclick="ModSelector('1-30-0')" class="button" style="top: 160px; left: 12px; position: absolute" draggable="false">
 						<img src="./images/ModSelectButton.png" draggable="false">
 						
 						<div class="intext" draggable="false">
@@ -197,7 +213,7 @@
 						</div>
 					</a>
 					
-					<a onclick="ModSelector('1-50-0')" class="button" style="top: 110px; left: 12px; position: absolute" draggable="false">
+					<a onclick="ModSelector('1-50-0')" class="button" style="top: 210px; left: 12px; position: absolute" draggable="false">
 						<img src="./images/ModSelectButton.png" draggable="false">
 						
 						<div class="intext" draggable="false">
@@ -205,7 +221,7 @@
 						</div>
 					</a>
 
-					<a onclick="ModSelector('2-45-0')" class="button" style="top: 160px; left: 12px; position: absolute" draggable="false">
+					<a onclick="ModSelector('2-45-0')" class="button" style="top: 260px; left: 12px; position: absolute" draggable="false">
 						<img src="./images/ModSelectButton.png" draggable="false">
 						
 						<div class="intext" draggable="false">
@@ -214,6 +230,54 @@
 					</a>					
 					
 				</div>
+
+				<div id="mods-oldprodigyde" style="display: none" draggable="false">
+				
+					<a onclick="AddMod('WalkSpeed', 'oldprodigyde')" class="button" style="top: 10px; left: 12px; position: absolute" draggable="false">
+						<img id="mod-WalkSpeed-oldprodigyde" src="./images/ModSelectButton.png" draggable="false">
+						
+						<div class="intext" id="select-mod-version" draggable="false">
+							<img alt="Walk Speed" src="./images/WalkSpeed.png" draggable="false">
+						</div>
+					</a>
+				
+					<a onclick="AddMod('FastGameSpeed', 'oldprodigyde')" class="button" style="top: 60px; left: 12px; position: absolute" draggable="false">
+						<img id="mod-FastGameSpeed-oldprodigyde" src="./images/ModSelectButton.png" draggable="false">
+						
+						<div class="intext" id="select-mod-version" draggable="false">
+							<img alt="Fast Game Speed" src="./images/FastGameSpeed.png" draggable="false">
+						</div>
+					</a>
+					
+					<a onclick="StartGameMod('oldprodigyde')" class="button" style="top: 280px; right: 12px; position: absolute" draggable="false">
+						<img alt="Start" src="./images/Start.png" draggable="false">
+					</a>
+				
+				</div>
+			
+				<div id="mods-1-28-1" style="display: none" draggable="false">
+				
+					<a onclick="AddMod('WalkSpeed', '1-28-1')" class="button" style="top: 10px; left: 12px; position: absolute" draggable="false">
+						<img id="mod-WalkSpeed-1-28-1" src="./images/ModSelectButton.png" draggable="false">
+						
+						<div class="intext" id="select-mod-version" draggable="false">
+							<img alt="Walk Speed" src="./images/WalkSpeed.png" draggable="false">
+						</div>
+					</a>
+				
+					<a onclick="AddMod('FastGameSpeed', '1-28-1')" class="button" style="top: 60px; left: 12px; position: absolute" draggable="false">
+						<img id="mod-FastGameSpeed-1-28-1" src="./images/ModSelectButton.png" draggable="false">
+						
+						<div class="intext" id="select-mod-version" draggable="false">
+							<img alt="Fast Game Speed" src="./images/FastGameSpeed.png" draggable="false">
+						</div>
+					</a>
+					
+					<a onclick="StartGameMod('1-28-1')" class="button" style="top: 280px; right: 12px; position: absolute" draggable="false">
+						<img alt="Start" src="./images/Start.png" draggable="false">
+					</a>
+				
+				</div>			
 				
 				<div id="mods-1-29-0" style="display: none" draggable="false">
 				
@@ -357,7 +421,7 @@
 		
 		<div class="button" style="top: 112px; left: 24px;" draggable="false">
 			<a onclick="ExitSelection()" draggable="false">
-				<img alt="https://ao28th28.github.io/oldprodigy.com/" src="./images/Close.png" draggable="false">
+				<img alt="Go back" src="./images/Close.png" draggable="false">
 			</a>
 		</div>
 		
@@ -416,6 +480,12 @@ Menu = {
 },
 Pages = [],
 Versions = [
+	{
+		src: "./images/0-0-0.png",
+		alt: "Version 0.0.0",
+		ver: "0-0-0",
+		beta: true		
+	},		
 	{
 		src: "./images/1-0-0.png",
 		alt: "Version 1.0.0",
@@ -519,6 +589,11 @@ Versions = [
 		ver: "1-24-0"
 	},
 	{
+		src: "./images/1-28-1.png",
+		alt: "Version 1.28.1",
+		ver: "1-28-1"		
+	},	
+	{
 		src: "./images/1-29-0.png",
 		alt: "Version 1.29.0",
 		ver: "1-29-0"
@@ -606,6 +681,12 @@ Versions = [
 	}	
 ],
 ModPages = {
+	"oldprodigyde": {
+		id: "mods-oldprodigyde"
+	},	
+	"1-28-1": {
+		id: "mods-1-28-1"
+	},	
 	"1-29-0": {
 		id: "mods-1-29-0"
 	},
@@ -898,7 +979,7 @@ newPage = function(id) {
 playDefinitiveEdition = function() {
 	PlayClick();
 	setTimeout(()=> {
-		window.location.href = "https://ao28th28.github.io/oldprodigy.com/oldprodigy/0-0-0/";
+		window.location.href = "https://xpmuser.github.io/oldprodigy/oldprodigyde/";
 	}, 200);
 },
 resizeFromWindow = function(element) {
