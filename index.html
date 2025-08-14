@@ -3,92 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Old Prodigy Menu</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Old Prodigy Menu - Enhanced</title>
+    <!-- Tailwind CSS CDN for easy styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
+        /* Custom fonts - BrianneTod and Pipe Dream would need to be linked or imported if they are custom fonts.
+           For general enhancement, we'll use Inter from Google Fonts as a modern alternative
+           and a sans-serif fallback. */
         body {
-            font-family: BrianneTod, Pipe Dream;
+            font-family: 'Inter', sans-serif; /* Using Inter as a modern, readable font */
             background-image: url("https://healingmunch.github.io/XPMUser.github.io/oldprodigy/images/Background.png");
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center center;
-            margin: auto;
-            height: 100%;
-            background-color: #627CDE;
+            background-color: #627CDE; /* Fallback background color */
         }
-
-        header {
-            background-color: #0066cc;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-            font-size: 24px;
+        /* Hide scrollbar for a cleaner look, while still allowing scrolling */
+        body::-webkit-scrollbar {
+            display: none;
         }
-
-        nav {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 15px;
-            margin-top: 30px;
-        }
-
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            padding: 15px 30px;
-            background: linear-gradient(135deg, #0073e6, #005bb5);
-            border-radius: 10px;
-            width: 260px;
-            text-align: center;
-            font-size: 20px;
-            font-weight: bold;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-            transition: all 0.3s ease-in-out;
-            border: 2px solid #004a99;
-        }
-
-        nav a:hover {
-            background: linear-gradient(135deg, #005bb5, #003f80);
-            transform: scale(1.05);
-            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
-        }
-
-        footer {
-            color: #fff;
-            text-align: center;
-            padding: 20px 0;
-            margin-top: 50px;
-        }
-
-        footer a {
-            color: #fff;
-            text-decoration: none;
-        }
-
-        footer a:hover {
-            text-decoration: underline;
+        body {
+            -ms-overflow-style: none; /* IE and Edge */
+            scrollbar-width: none; /* Firefox */
         }
     </style>
 </head>
-<body>
+<body class="flex flex-col min-h-screen items-center justify-center p-4">
 
-    <header>
-        <h1>Old Prodigy Menu</h1>
+    <!-- Header Section -->
+    <header class="w-full max-w-4xl bg-gradient-to-r from-blue-700 to-blue-900 text-white p-6 md:p-8 text-center rounded-xl shadow-lg mb-8 md:mb-12">
+        <h1 class="text-3xl md:text-5xl font-extrabold tracking-tight">Old Prodigy Menu</h1>
     </header>
 
-    <main>
-        <nav>
-            <a href="https://healingmunch.github.io/Website-Tester/" target="_blank">Old Prodigy/Prodidows Insider Program</a>
-            <a href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/select/" target="_blank">Select a Version</a>
-            <a href="https://healingmunch.github.io/prodidows/" target="_blank">Prodidows</a>
-            <a href="https://github.com/HealingMunch/XPMUser.github.io/issues" target="_blank">Send Feedback</a>
-            <a href="https://www.youtube.com/channel/UC0dCD_TrUDVQpFCTK6Lyz7Q?sub_confirmation=1" target="_blank">Subscribe</a>
+    <!-- Main Content Section -->
+    <main class="w-full max-w-2xl flex-grow flex items-center justify-center">
+        <nav class="flex flex-col items-center gap-4 w-full p-4 bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm rounded-xl shadow-2xl border border-gray-700">
+            <!-- Navigation Links -->
+            <a href="https://healingmunch.github.io/Website-Tester/" target="_blank"
+               class="w-full py-4 px-6 bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-semibold text-lg md:text-xl rounded-full shadow-lg hover:from-indigo-600 hover:to-purple-700 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-indigo-700 text-center">
+                Old Prodigy/Prodidows Insider Program
+            </a>
+            <a href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/select/" target="_blank"
+               class="w-full py-4 px-6 bg-gradient-to-r from-pink-500 to-red-600 text-white font-semibold text-lg md:text-xl rounded-full shadow-lg hover:from-pink-600 hover:to-red-700 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-pink-700 text-center">
+                Select a Version
+            </a>
+            <a href="https://healingmunch.github.io/prodidows/" target="_blank"
+               class="w-full py-4 px-6 bg-gradient-to-r from-green-500 to-teal-600 text-white font-semibold text-lg md:text-xl rounded-full shadow-lg hover:from-green-600 hover:to-teal-700 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-green-700 text-center">
+                Prodidows
+            </a>
+            <a href="https://github.com/HealingMunch/XPMUser.github.io/issues" target="_blank"
+               class="w-full py-4 px-6 bg-gradient-to-r from-yellow-500 to-orange-600 text-white font-semibold text-lg md:text-xl rounded-full shadow-lg hover:from-yellow-600 hover:to-orange-700 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-yellow-700 text-center">
+                Send Feedback
+            </a>
+            <a href="https://www.youtube.com/channel/UC0dCD_TrUDVQpFCTK6Lyz7Q?sub_confirmation=1" target="_blank"
+               class="w-full py-4 px-6 bg-gradient-to-r from-red-600 to-red-800 text-white font-semibold text-lg md:text-xl rounded-full shadow-lg hover:from-red-700 hover:to-red-900 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-red-900 text-center flex items-center justify-center">
+                <!-- YouTube Icon from Lucide React (simulated SVG) -->
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2">
+                    <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.62.42a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 12c0 1.54.1 3.09.42 4.62a2.78 2.78 0 0 0 1.94 2C5.12 20 12 20 12 20s6.88 0 8.62-.42a2.78 2.78 0 0 0 1.94-2c.32-1.53.42-3.08.42-4.62 0-.3-.02-.6-.04-.9H22.54z"/>
+                    <path d="m10 15 5-3-5-3z"/>
+                </svg>
+                Subscribe
+            </a>
         </nav>
     </main>
 
-    <footer>
+    <!-- Footer Section -->
+    <footer class="w-full max-w-4xl text-white text-center p-4 mt-8 md:mt-12 text-sm md:text-base">
+        <p>&copy; 2025 Old Prodigy Menu. All rights reserved.</p>
+        <p>Managed by HealingMunch (XPMUser).</p>
+        <p class="mt-2">
+            <a href="https://github.com/HealingMunch/" target="_blank" class="hover:underline transition-colors duration-200">GitHub</a> |
+            <a href="https://healingmunch.github.io/XPMUser.github.io/privacy" target="_blank" class="hover:underline transition-colors duration-200">Privacy Policy</a>
+        </p>
     </footer>
 
 </body>
