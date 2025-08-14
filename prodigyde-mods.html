@@ -3,181 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prodigy Definitive Edition Mod Menu</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Prodigy Definitive Edition Menu - Enhanced</title>
+    <!-- Tailwind CSS CDN for easy styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Font: Inter (preferred modern font) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
     <style>
+        /* Fallback font for BrianneTod and Pipe Dream; Inter will be the primary font via Tailwind */
         body {
-            font-family: BrianneTod, Pipe Dream;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f4f8;
-        }
-
-        header {
-            background-color: #0066cc;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
-
-        main {
-            padding: 50px 20px;
-            text-align: center;
-        }
-
-        select, button {
-            padding: 10px 20px;
-            margin: 20px 0;
-            font-size: 16px;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-        }
-
-        button {
-            background-color: #0066cc;
-            color: white;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        button:hover {
-            background-color: #004d99;
-        }
-
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px 0;
-            margin-top: 40px;
-        }
-
-        footer a {
-            color: #fff;
-            text-decoration: none;
-        }
-
-        footer a:hover {
-            text-decoration: underline;
+            font-family: 'Inter', sans-serif;
+            /* Background color retained from original, but managed with Tailwind for positioning */
+            background-color: #eef2f7;
         }
     </style>
 </head>
-<body>
+<body class="flex flex-col min-h-screen items-center justify-center p-4 bg-gray-100">
 
-    <header>
-        <h1>Prodigy Definitive Edition Mod Menu</h1>
+    <!-- Header Section -->
+    <header class="w-full max-w-5xl bg-gradient-to-r from-blue-700 to-blue-900 text-white p-6 md:p-8 text-center rounded-xl shadow-lg mb-8 md:mb-12">
+        <h1 class="text-3xl md:text-5xl font-extrabold tracking-tight">Prodigy Definitive Edition Menu</h1>
     </header>
 
-    <main>
-        <h2>Select a Version and Mods</h2>
+    <!-- Main Content Section -->
+    <main class="w-full max-w-3xl flex-grow flex items-center justify-center">
+        <nav class="flex flex-wrap justify-center gap-6 w-full p-6 md:p-8 bg-white rounded-xl shadow-2xl border border-gray-200">
+            <!-- Navigation Links -->
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-blue-500 to-blue-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-blue-600 hover:to-blue-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-blue-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/prodigyde/" target="_blank">1.10.0</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-purple-500 to-purple-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-purple-600 hover:to-purple-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-purple-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2015/" target="_blank">1.11.0</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-green-500 to-green-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-green-600 hover:to-green-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-green-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/oldprodigyde/" target="_blank">1.16.5</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-red-500 to-red-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-red-600 hover:to-red-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-red-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pdewinter2016/" target="_blank">1.37.0</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-yellow-500 to-yellow-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-yellow-600 hover:to-yellow-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-yellow-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde1500/" target="_blank">1.50.0</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-indigo-500 to-indigo-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-indigo-600 hover:to-indigo-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-indigo-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2017/" target="_blank">1.60.0</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-pink-500 to-pink-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-pink-600 hover:to-pink-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-pink-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2018/" target="_blank">1.80.0</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-teal-500 to-teal-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-teal-600 hover:to-teal-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-teal-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2019/" target="_blank">2.45.0</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-gray-500 to-gray-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-gray-600 hover:to-gray-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-gray-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/prodigyde-mods.html" target="_blank">Mods</a>
+            <a class="nav-button w-48 py-4 px-6 bg-gradient-to-r from-lime-500 to-lime-700 text-white font-semibold text-lg rounded-full shadow-lg hover:from-lime-600 hover:to-lime-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-lime-800 text-center"
+               href="https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde1.51.0/?mods=WalkSpeed,FastGameSpeed" target="_blank">PDE1.51.0</a>
+        </nav>
 
-        <!-- Dropdown for selecting version -->
-        <label for="version">Choose Version:</label>
-        <select id="version">
-            <option value="prodigyde">ProdigyDE</option>
-            <option value="pde2015">PDE2015</option>
-            <option value="oldprodigyde">Old ProdigyDE</option>
-            <option value="pdewinter2016">PDE Winter 2016</option>
-            <option value="pdenot1.50.0">PDE Not 1.50.0</option>
-            <option value="pde1500">PDE1500</option>
-            <option value="pde2017">PDE2017</option>
-            <option value="pde1700">PDE1700</option>
-            <option value="pde2018">PDE2018</option>
-            <option value="pde2019">PDE2019</option>
-        </select>
-
-        <!-- Checkboxes for mods -->
-        <div id="modOptions">
-            <label><input type="checkbox" id="walkSpeed" disabled> WalkSpeed</label><br>
-            <label><input type="checkbox" id="fastGameSpeed" disabled> FastGameSpeed</label><br>
-            <label><input type="checkbox" id="classicFaces"> ClassicFaces</label><br>
-            <label><input type="checkbox" id="coyBlush"> CoyBlush</label><br>
-            <label><input type="checkbox" id="rebalancedBattles"> RebalancedBattles</label><br>
-            <label><input type="checkbox" id="imitationTitan"> ImitationTitan</label><br>
+        <!-- Random Pick Button -->
+        <div class="mt-8">
+            <button class="nav-button bg-gradient-to-r from-orange-500 to-orange-700 text-white py-4 px-8 rounded-full text-xl font-bold shadow-lg hover:from-orange-600 hover:to-orange-800 transform hover:scale-105 transition-all duration-300 ease-in-out border-2 border-orange-800 inline-flex items-center justify-center"
+                    onclick="pickRandomVersion()">
+                <span class="text-2xl mr-2">🎲</span> Pick For Me
+            </button>
         </div>
-
-        <button onclick="applyMods()">Apply</button>
     </main>
 
-    <footer>
+    <!-- Footer Section -->
+    <footer class="w-full max-w-5xl bg-gray-800 text-white text-center p-4 mt-8 md:mt-12 text-sm md:text-base rounded-xl shadow-lg">
+        <p>&copy; 2025 ProdigyDE Menu. All rights reserved.</p>
     </footer>
 
     <script>
-        const versionSelect = document.getElementById("version");
-        const walkSpeed = document.getElementById("walkSpeed");
-        const fastGameSpeed = document.getElementById("fastGameSpeed");
-        const classicFaces = document.getElementById("classicFaces");
-        const coyBlush = document.getElementById("coyBlush");
-        const rebalancedBattles = document.getElementById("rebalancedBattles");
-        const imitationTitan = document.getElementById("imitationTitan");
-
-        versionSelect.addEventListener("change", updateModOptions);
-
-        function updateModOptions() {
-            const selectedVersion = versionSelect.value;
-
-            // Default state for all mods
-            walkSpeed.disabled = false;
-            fastGameSpeed.disabled = false;
-            classicFaces.disabled = false;
-            coyBlush.disabled = false;
-            rebalancedBattles.disabled = false;
-            imitationTitan.disabled = false;
-
-            // Reset mod checkboxes
-            walkSpeed.checked = false;
-            fastGameSpeed.checked = false;
-            classicFaces.checked = false;
-            coyBlush.checked = false;
-            rebalancedBattles.checked = false;
-            imitationTitan.checked = false;
-
-            // Modify mod options based on the selected version
-            switch (selectedVersion) {
-                case "oldprodigyde":
-                    walkSpeed.disabled = true; // Disable WalkSpeed for oldprodigyde
-                    break;
-                case "pde2015":
-                case "prodigyde":
-                    coyBlush.disabled = false; // Enable CoyBlush for ProdigyDE and PDE2015
-                    break;
-                case "pde1500":
-                    classicFaces.disabled = false; // Enable ClassicFaces for PDE1500
-                    break;
-                case "pde1700":
-                    rebalancedBattles.disabled = false; // Enable RebalancedBattles for PDE1700
-                    imitationTitan.disabled = false; // Enable ImitationTitan for PDE1700
-                    break;
-                case "pde2018":
-                    rebalancedBattles.disabled = false; // Enable RebalancedBattles for PDE2018
-                    break;
-                case "pde2019":
-                    imitationTitan.disabled = false; // Enable ImitationTitan for PDE2019
-                    break;
-                default:
-                    // Default settings for all other versions
-                    break;
-            }
-        }
-
-        function applyMods() {
-            const selectedVersion = versionSelect.value;
-            const selectedMods = [];
-
-            // Collect mods that are checked
-            if (walkSpeed.checked) selectedMods.push("WalkSpeed");
-            if (fastGameSpeed.checked) selectedMods.push("FastGameSpeed");
-            if (classicFaces.checked) selectedMods.push("ClassicFaces");
-            if (coyBlush.checked) selectedMods.push("CoyBlush");
-            if (rebalancedBattles.checked) selectedMods.push("RebalancedBattles");
-            if (imitationTitan.checked) selectedMods.push("ImitationTitan");
-
-            // Construct the URL with the selected version and mods
-            const modsParam = selectedMods.join(",");
-            const redirectUrl = `https://healingmunch.github.io/XPMUser.github.io/oldprodigy/${selectedVersion}/?mods=${modsParam}`;
-
-            // Redirect to the new URL
-            window.location.href = redirectUrl;
+        function pickRandomVersion() {
+            const versions = [
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/prodigyde/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2015/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/oldprodigyde/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pdewinter2016/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde1500/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2017/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2018/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde2019/",
+                "https://healingmunch.github.io/XPMUser.github.io/oldprodigy/pde1.51.0/?mods=WalkSpeed,FastGameSpeed"
+            ];
+            const random = versions[Math.floor(Math.random() * versions.length)];
+            window.open(random, "_blank");
         }
     </script>
 
