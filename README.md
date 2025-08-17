@@ -1,46 +1,32 @@
-# XPMUser.github.io
+# Ao28th28.github.io
 
 Revolt Server: https://rvlt.gg/YW9wGRpd
-
-Old Prodigy Reddit Community: https://www.reddit.com/r/OldProdigy/
 
 If you're playing my Old Prodigy versions, Definitive Editions, Ultimate Editions, or Prodidows versions, and you experience bugs, or want a new feature added, but you're under 13, ask your parents to report bugs in the bug report template or to ask for anything in the feature request template.
 
 # Credits
 
-Game restorers: Daboss7173 https://github.com/Daboss7173, XPMUser a.k.a HealingMunch, Craftersshaft https://github.com/craftersshaft/, etc
+Game restorers: Daboss7173 https://github.com/Daboss7173, Ao28th28, Craftersshaft https://github.com/craftersshaft/, etc
 
-Siteforkers: XPMUser/Ao28th28, Slappygig/Toonigy, etc https://github.com/HealingMunch https://github.com/Ao28th28 https://github.com/slappygig https://github.com/Toonigy
+Siteforkers: Ao28th28, Slappygig/Toonigy, etc  https://github.com/Ao28th28 https://github.com/slappygig https://github.com/Toonigy
 
-Old Prodigy Modifiers: Slappygig, XPMUser/Ao28th28 a.k.a HealingMunch, Cookie, Daboss7173, and more https://github.com/CookieTheDeveloper
+Old Prodigy Modifiers: Slappygig, Ao28th28 a.k.a HealingMunch, Cookie, Daboss7173, and more https://github.com/CookieTheDeveloper
 
 Reborn Maker: Craftersshaft https://github.com/craftersshaft/
 
 Prodigy Game Makers: Prodigy Education a.k.a Prodigy Game (co-founded by Alex/Alexander Peters and Rohan Mahimker)
 
-Mod Makers: Daboss7173, Slappygig/Toonigy, XPMUser/Ao28th28 a.k.a HealingMunch, etc
+Mod Makers: Daboss7173, Slappygig/Toonigy, Ao28th28 a.k.a HealingMunch, etc
 
 Yandere Ai Girlfriend (Eddie) maker: Anthropic
 
 Song Makers: Jamie Christopherson and Matthew Pablo
 Song Editors: Prodigy Education a.k.a Prodigy Game
 Font Makers: Prodigy Education and more
-Playtesters: Daboss7173, XPMUser/Ao28th28 a.k.a HealingMunch, Mr. Inquiry, and more
+Playtesters: Daboss7173, Ao28th28 a.k.a HealingMunch, Mr. Inquiry, and more
 Pictures: Prodigy Education, the mustache creator, and more
-Introducers: Ao28th28 a.k.a XPMUser/HealingMunch, Mr. Inquiry, and more
+Introducers: Ao28th28, Mr. Inquiry, and more
 Original Prodigy Makers: Rohan Mahimker/Alexander Peters
-
-# Table of Contents 
-1. XPMUser.github.io: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#xpmusergithubio
-2. Credits: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#credits
-3. Table of Contents: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#table-of-contents
-4. Old Prodigy: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#old-prodigy
-5. How to play: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#how-to-play
-6. Modpacks: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#modpacks
-7. List of Versions: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#list-of-versions
-8. Prodigy Definitive Edition: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#prodigy-definitive-edition
-9. Prodigy Ultimate Edition: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#prodigy-ultimate-edition
-10. The other version: https://github.com/HealingMunch/XPMUser.github.io?tab=readme-ov-file#the-other-version
    
 # Old Prodigy
 
@@ -79,7 +65,7 @@ If there's a bug in this repository, click on the Send Feedback button in the Ol
 There are also various forks of this repository, you can check them out if you get the chance. I can not guarentee the quality of play
 as much as I can here, but I can say they have some cool stuff you might like.
 
-https://github.com/XPMUser/XPMUser.github.io/network/members
+https://github.com/Ao28th28/Ao28th28.github.io/network/members
 
 ## How to play
 
