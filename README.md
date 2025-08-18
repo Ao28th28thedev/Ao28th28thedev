@@ -74,7 +74,7 @@ repository!
 
 This is the fork that I most highly recommend checking out, as it is the most stable and has the most features. 
 
-To do so, you just click this link: https://healingmunch.github.io/XPMUser.github.io/oldprodigy/select
+To do so, you just click this link: https://ao28th28.github.io/oldprodigy/select
 
 Once you're there, you can select a version to play. There are lots of versions to choose from, so try not to be overwhelmed
 by the number of choices, and there are still more versions and updates to come!
