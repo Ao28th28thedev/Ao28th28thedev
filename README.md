@@ -16,14 +16,14 @@ Reborn Maker: Craftersshaft https://github.com/craftersshaft/
 
 Prodigy Game Makers: Prodigy Education a.k.a Prodigy Game (co-founded by Alex/Alexander Peters and Rohan Mahimker)
 
-Mod Makers: Daboss7173, Slappygig/Toonigy, Ao28th28 a.k.a HealingMunch, etc
+Mod Makers: Daboss7173, Slappygig/Toonigy, Ao28th28, etc
 
 Yandere Ai Girlfriend (Eddie) maker: Anthropic
 
 Song Makers: Jamie Christopherson and Matthew Pablo
 Song Editors: Prodigy Education a.k.a Prodigy Game
 Font Makers: Prodigy Education and more
-Playtesters: Daboss7173, Ao28th28 a.k.a HealingMunch, Mr. Inquiry, and more
+Playtesters: Daboss7173, Ao28th28, Mr. Inquiry, and more
 Pictures: Prodigy Education, the mustache creator, and more
 Introducers: Ao28th28, Mr. Inquiry, and more
 Original Prodigy Makers: Rohan Mahimker/Alexander Peters
