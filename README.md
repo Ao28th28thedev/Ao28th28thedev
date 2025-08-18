@@ -30,6 +30,8 @@ Original Prodigy Makers: Rohan Mahimker/Alexander Peters
    
 # Old Prodigy
 
+Old Prodigy is for historical purposes.
+
 Craftersshaft was the first coder to restore Old Prodigy (1.30.0). Unfortunately, it turned into a broken version of 1.30.0 (Prodigy Reborn 1.0 Version 1.30.R).
 
 This is some pretty simple modding of older versions of Prodigy, to get them to work right now, in the present day!
