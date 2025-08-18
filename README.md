@@ -231,8 +231,4 @@ Lets scratch the surface shall we?
   
 Yep, you heard that right, that's just scratching the surface. There are lots of versions to choose from and modpacks are supported for some of them, so you can probably imagine what months of hard work can do to something like that. 
 
-https://healingmunch.github.io/XPMUser.github.io/oldprodigy/choose/ You can choose any version you want.
-
-## Prodigy Ultimate Edition
-
-There's only 1.50.0 Ultimate Edition for now, more versions are coming soon. https://healingmunch.github.io/XPMUser.github.io/oldprodigy/play/ 1.50.0 Ultimate Edition is somehow trying to use pde1500's updates.
+https://ao28th28.github.io/oldprodigy/choose/ You can choose any version you want.
