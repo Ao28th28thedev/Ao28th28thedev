@@ -60,7 +60,7 @@ Credits have been given in the credits list.
 
 For more information about Prodigy, [click this link!](https://www.prodigygame.com/main-en/about-prodigy/)
 
-If there's a problem with daboss7173.github.io, oldprodigy.onrender.com, slappygig.github.io, or a fork of this repository, contact the person responsible for the fork or the site that isn't a fork, not HealingMunch. I don't recommend saving your character from Daboss7173's 1.10.0 or 1.11.0 or Slappygig's 1.10.0 or 1.11.0 due to the loss of your housedata.
+If there's a problem with daboss7173.github.io, oldprodigy.onrender.com, slappygig.github.io, or a fork of this repository, contact the person responsible for the fork or the site that isn't a fork, not Ao28th28. I don't recommend saving your character from Daboss7173's 1.10.0 or 1.11.0 or Slappygig's 1.10.0 or 1.11.0 due to the loss of your housedata.
 
 If there's a bug in this repository, click on the Send Feedback button in the Old Prodigy Menu, go to the bug-reports channel and report any bugs. I'll try to fix it as soon as I can.
 
