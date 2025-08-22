@@ -431,7 +431,7 @@ function postGamePatches(e) {
 		e.prodigy.assets._assets["game-data"] = {
 			type: "json",
 			base: "",
-			fullURL: "https://cdn.prodigygame.com/game/data/production/1/data.json"
+			fullURL: "https://ao28th28thedev.github.io/Ao28th28thedev/game/data/production/1/data.json"
 		},
 		e.prodigy.assets._assets["store-data"] = {
 			type: "json",
@@ -444,3 +444,4 @@ function postGamePatches(e) {
 		console.error(e)
 	}
 }
+
