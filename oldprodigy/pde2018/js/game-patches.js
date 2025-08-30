@@ -79,7 +79,7 @@ class ModObj {
 		},
 		this.game.prodigy.assets._assets["login-buttons"] = {
 			type: "local",
-			base: "https://xpmuser.github.io/oldprodigy/1-80-0/images/",
+			base: "https://ao28th28thedev.github.io/Ao28th28thedev/oldprodigy/1-80-0/images/",
 			key: "general-login",
 			v: "1"
 		},
@@ -444,3 +444,4 @@ function postGamePatches(e) {
 		console.error(e)
 	}
 }
+
